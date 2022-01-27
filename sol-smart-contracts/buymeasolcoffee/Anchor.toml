@@ -1,15 +1,14 @@
 [features]
 seeds = false
 [programs.devnet]
-buymeasolcoffee = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+buymeasolcoffee = "HMJb3LsZb6NQUb1HkBSHMp1YgC8JDBwgSw1YAaMBdanr"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
 cluster = "devnet"
-wallet = "~/.config/solana/id.json"
+wallet = "/Users/drkrueger/.config/solana/id.json"
 
 [scripts]
 test = "node tests/buymeasolcoffee.js"
-

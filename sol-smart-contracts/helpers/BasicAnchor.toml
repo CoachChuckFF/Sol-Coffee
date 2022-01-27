@@ -8,7 +8,7 @@ url = "https://anchor.projectserum.com"
 
 [provider]
 cluster = "devnet"
-wallet = "/Users/drkrueger/Work/Solana/TreasureHunt/sol/wallets/coach/coach.json"
+wallet = "/you/home/directory/.config/solana/id.json"
 
 [scripts]
 test = "node tests/soltreasure.js"
